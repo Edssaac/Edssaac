@@ -2,17 +2,14 @@
 
 <p align="center">
   Meu nome é Edson Isaac, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba,<br> além de outros cursos na internet para enriquecer meu conhecimento. Amo programar sistemas e desenvolver jogos.
-</p>
+</p><br>
 
 >Experiências Presentes:
 
-- [x] HTML/CSS
-- [x] JavaScript
-- [x] C/C++
-- [x] Python
-- [x] C#
-- [x] SQL
+| Linguagens: | `HTML/CSS` | `JavaScript` | `C/C++` | `Python` | `C#` | `SQL` |
+|---|---|---|---|---|---|---|
 - [x] Alguns Frameworks e API's
+<br>
 
 >Plataformas Utilizadas:
 - [x] Visual Studio 2019
