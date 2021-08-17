@@ -1,4 +1,39 @@
-### Hi there 👋
+<h1 align="center">🌟 Hello World 🦖</h1>
+
+<p align="center">
+  Meu nome é Edson Isaac, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba,<br> além de outros cursos na internet para enriquecer meu conhecimento. Amo programar sistemas e desenvolver jogos.
+</p>
+
+>Experiências Presentes:
+
+- [x] HTML/CSS
+- [x] JavaScript
+- [x] C/C++
+- [x] Python
+- [x] C#
+- [x] SQL
+- [x] Alguns Frameworks e API's
+
+>Plataformas Utilizadas:
+- [x] Visual Studio 2019
+- [x] Visual Studio Code
+- [x] SQL Server / SQL Developer
+- [x] 🕹 Unity
+
+>Ambientes:
+- [x] WEB 🕸️
+- [x] Desktop 🖥
+- [x] Mobile 📱
+
+
+<h4 align="center"> 
+	🚧  Caminho em Construção...  🚧
+</h4>
+
+<h5 align="center">
+  📫 Clique <a href="https://edssaac.github.io/edd/">aqui</a> para obter mais informações ou meus contatos.
+</h5>
+
 
 <!--
 **Edssaac/Edssaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
