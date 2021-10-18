@@ -6,8 +6,8 @@
 
 >Experiências Presentes:
 
-| Linguagens: | `HTML/CSS` | `JavaScript` | `C/C++` | `Python` | `C#` | `SQL` |
-|---|---|---|---|---|---|---|
+| Linguagens: | `HTML/CSS` | `JavaScript` | `PHP` | `Python` | `C#` | `C/C++` | `SQL` |
+|---|---|---|---|---|---|---|---|
 - [x] Alguns Frameworks e API's
 <br>
 
