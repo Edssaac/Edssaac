@@ -8,19 +8,19 @@
 
 | Linguagens: | `HTML/CSS` | `JavaScript` | `PHP` | `Python` | `C#` | `C/C++` | `SQL` |
 |---|---|---|---|---|---|---|---|
-- [x] Alguns Frameworks e API's
+- [x] Frameworks e API's
 <br>
 
 >Plataformas Utilizadas:
-- [x] Visual Studio 2019
-- [x] Visual Studio Code
-- [x] SQL Server / SQL Developer
+- [x] ⌨️ Visual Studio 2019
+- [x] ⌨️ Visual Studio Code
+- [x] 🎲 HeidiSQL (e outras plataformas SQL)
 - [x] 🕹 Unity
 
 >Ambientes:
-- [x] WEB 🕸️
-- [x] Desktop 🖥
-- [x] Mobile 📱
+- [x] 🕸️  WEB
+- [x] 🖥  Desktop
+- [x] 📱 Mobile
 
 
 <h4 align="center"> 
