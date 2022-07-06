@@ -1,26 +1,22 @@
 <h1 align="center">🌟 Hello World 🦖</h1>
 
 <p align="center">
-  Meu nome é <a href="https://edssaac.github.io/Portfolio/">Edson Isaac</a>, tenho 20 anos e atualmente curso Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba,<br> além de outros cursos para aprimorar meu conhecimento. Amo programar sistemas e desenvolver jogos.
-</p><br>
+	Meu nome é <a href="https://edssaac.github.io/Portfolio/">Edson Isaac</a> e tenho 20 anos. <br>
+	Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba e sou desenvolvedor PHP na <a href="https://education1.com.br/">EducationOne</a>.
+</p>
 
->Experiências Presentes:
-
-| Linguagens: | `HTML/CSS` | `JavaScript` | `PHP` | `Python` | `C#` | `C/C++` | `SQL` |
-|---|---|---|---|---|---|---|---|
-- [x] Frameworks e API's
 <br>
 
->Plataformas Utilizadas:
-- [x] ⌨️ Visual Studio 2019
-- [x] ⌨️ Visual Studio Code
-- [x] 🎲 HeidiSQL (e outras plataformas SQL)
-- [x] 🕹 Unity
+>Experiências:
 
->Ambientes:
-- [x] 🕸️  WEB
-- [x] 🖥  Desktop
-- [x] 📱 Mobile
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edssaac&locale=pt-br&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edssaac&locale=pt-br&theme=dracula&layout=compact)
+
+</div>
+
+<br>
 
 
 <h4 align="center"> 
@@ -30,7 +26,6 @@
 <h5 align="center">
   📫 Clique <a href="https://edssaac.github.io/Portfolio/">aqui</a> para obter mais informações ou meus contatos.
 </h5>
-
 
 <!--
 **Edssaac/Edssaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
