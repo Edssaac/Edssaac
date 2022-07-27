@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hello World 🦖</h1>
 
 <p align="center">
-	Meu nome é <a href="https://edssaac.github.io/Portfolio/">Edson Isaac</a> e tenho 20 anos. <br>
+	Meu nome é <a href="https://edssaac.github.io/portfolio/">Edson Isaac</a> e tenho 20 anos. <br>
 	Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba e sou desenvolvedor PHP na <a href="https://education1.com.br/">EducationOne</a>.
 </p>
 
