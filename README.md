@@ -2,7 +2,7 @@
 
 <p align="center">
 	Meu nome é <a href="https://edssaac.github.io/portfolio/">Edson Isaac</a> e tenho 20 anos. <br>
-	Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba e sou desenvolvedor PHP na <a href="https://education1.com.br/">EducationOne</a>.
+	Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba e sou desenvolvedor PHP na <a href="https://www.vendaecia.com.br/">Vendaecia</a>.
 </p>
 
 <br>
