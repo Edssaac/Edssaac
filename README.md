@@ -24,7 +24,7 @@
 </h4>
 
 <h5 align="center">
-  📫 Clique <a href="https://edssaac.github.io/Portfolio/">aqui</a> para obter mais informações ou meus contatos.
+  📫 Clique <a href="https://edssaac.github.io/portfolio/">aqui</a> para obter mais informações ou meus contatos.
 </h5>
 
 <!--
