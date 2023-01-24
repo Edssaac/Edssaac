@@ -11,8 +11,8 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edssaac&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edssaac&theme=dracula&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edssaac&show_icons=true&theme=dracula&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edssaac&theme=dracula&layout=compact&locale=pt-br)
 
 </div>
 
