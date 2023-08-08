@@ -1,8 +1,8 @@
 <h1 align="center">🌟 Hello World 🦖</h1>
 
 <p align="center">
-	Meu nome é <a href="https://edssaac.github.io/portfolio/">Edson Isaac</a> e tenho 20 anos. <br>
-	Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba e sou desenvolvedor PHP na <a href="https://www.vendaecia.com.br/">Vendaecia</a>.
+	Meu nome é <a href="https://edssaac.github.io/portfolio/">Edson Isaac</a>. <br>
+	Graduado no curso de Análise e Desenvolvimento de Sistemas pela Fatec de Sorocaba e sou desenvolvedor back-end na <a href="https://www.vendaecia.com.br/">Vendaecia</a>.
 </p>
 
 <br>
@@ -24,7 +24,7 @@
 </h4>
 
 <h5 align="center">
-  📫 Clique <a href="https://edssaac.github.io/portfolio/">aqui</a> para obter mais informações ou meus contatos.
+  📫 Clique <a href="https://edssaac.github.io/portfolio/">aqui</a> para obter mais informações e meus contatos.
 </h5>
 
 <!--
