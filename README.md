@@ -1,13 +1,11 @@
 <h1 align="center">🌟 Hello World 🦖</h1>
 
 <p align="center">
-	Meu nome é <a href="https://edssaac.github.io/portfolio/">Edson Isaac</a>. <br>
-	Graduado no curso de Análise e Desenvolvimento de Sistemas pela Fatec de Sorocaba e sou desenvolvedor back-end na <a href="https://www.vendaecia.com.br/">Vendaecia</a>.
+	Meu nome é <a href="https://edssaac.github.io/portfolio/" target="_blank">Edson Isaac</a>. <br>
+	Graduado no curso de Análise e Desenvolvimento de Sistemas pela Fatec de Sorocaba e desenvolvedor back-end na <a href="https://www.vendaecia.com.br/">Vendaecia</a>.
 </p>
 
 <br>
-
->Experiências:
 
 <div align="center">
 
@@ -23,21 +21,18 @@
 	🚧  Caminho em Construção...  🚧
 </h4>
 
+<div align="center">
+	<a href="https://www.linkedin.com/in/edssaac/" target="_blank">
+       		<img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=informational"/>
+	</a>
+	<a href="mailto:edssaac@gmail.com" target="_blank">
+      		<img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white"/>
+    	</a>
+    	<a href="mailto:edssaac@outlook.com" target="_blank">
+ 		<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/">
+    	</a>
+</div>
+
 <h5 align="center">
-  📫 Clique <a href="https://edssaac.github.io/portfolio/">aqui</a> para obter mais informações e meus contatos.
+	📫 Clique <a href="https://edssaac.github.io/portfolio/" target="_blank">aqui</a> para obter mais informações e meus contatos.
 </h5>
-
-<!--
-**Edssaac/Edssaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
