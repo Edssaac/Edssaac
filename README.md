@@ -1,19 +1,15 @@
 <div align="center">
-	<a href="#">
-		<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header&reversal=true" alt="header"/>
-	</a>
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header&reversal=true" alt="header"/>
 </div>
 
 <div align="center">
-	<a href="#">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hello+World+.+.+." alt="Typing SVG"/>
-	</a>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hello+World+.+.+." alt="Typing SVG"/>
 </div>
 
 <br>
 
 <p align="center">
-	Meu nome é <a href="https://edssaac.github.io/portfolio/" target="_blank">Edson Isaac</a>. <br>
+	Meu nome é <a href="https://edssaac.github.io/portfolio/">Edson Isaac</a>. <br>
 	Graduado no curso de Análise e Desenvolvimento de Sistemas pela Fatec de Sorocaba e desenvolvedor back-end na <a href="https://www.vendaecia.com.br/">Vendaecia</a>.
 </p>
 
@@ -27,17 +23,15 @@
 <br>
 
 <div id="header" align="center" style="pointer-events: none;">
-	<a href="#">
-		<img src="https://komarev.com/ghpvc/?username=edssaac&style=for-the-badge&color=orange&label=Visualizações+do+Perfil" alt="visualizações"/>
-	</a>
+	<img src="https://komarev.com/ghpvc/?username=edssaac&style=for-the-badge&color=orange&label=Visualizações+do+Perfil" alt="visualizações"/>
 </div>
 
 <br>
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/edssaac/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=informational"/></a>
-	<a href="mailto:edssaac@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white"/></a>
-	<a href="mailto:edssaac@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/"></a>
+	<a href="https://www.linkedin.com/in/edssaac/"><img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=informational"/></a>
+	<a href="mailto:edssaac@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white"/></a>
+	<a href="mailto:edssaac@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/"></a>
 </div>
 
 <h5 align="center">
@@ -45,7 +39,5 @@
 </h5>
 
 <div align="center">
-	<a href="#">
-		<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=false" alt="footer" />
-	</a>
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=false" alt="footer" />
 </div>
