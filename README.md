@@ -29,9 +29,9 @@
 <br>
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/edssaac/"><img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=informational"/></a>
 	<a href="mailto:edssaac@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white"/></a>
 	<a href="mailto:edssaac@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/"></a>
+ 	<a href="https://www.linkedin.com/in/edssaac/"><img src="https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=informational"/></a>
 </div>
 
 <h5 align="center">
