@@ -10,7 +10,7 @@
 
 <p align="center">
 	Meu nome é <a href="https://edssaac.github.io/portfolio">Edson Isaac</a>. <br>
-	Graduado no curso de Análise e Desenvolvimento de Sistemas pela Fatec de Sorocaba e desenvolvedor back-end na <a href="https://www.vendaecia.com.br">Vendaecia</a>.
+	Graduado no curso de Análise e Desenvolvimento de Sistemas pela Fatec de Sorocaba e desenvolvedor back-end.
 </p>
 
 <br>
